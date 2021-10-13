@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DosActividades</string>
+    <string name="cambiar_de_actividad">Cambiar de actividad</string>
+    <string name="ingrese_el_texto_aqui">Ingrese el texto aqui</string>
+    <string name="enviar">Enviar</string>
+</resources>
